@@ -45,7 +45,7 @@ You can use following functions.
 pip install memory_cache
 ```
 
-### Tutorial
+### 🚀 Tutorial
 
 #### Execute the code below.
 
